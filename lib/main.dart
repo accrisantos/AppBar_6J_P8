@@ -41,3 +41,15 @@ class MyHomePage extends StatelessWidget {
     );
   }
 }
+
+# mi AppBAr y sus caracteristicas
+  
+## link de referencia:
+
+-https://raw.githubusercontent.com/accrisantos/AppBar_6J_P8/master/Captura.PNG
+-https://codesinsider.com/flutter-appbar-example-tutorial/
+
+## link de youtube:
+
+-https://www.youtube.com/watch?v=WOvj84xq_fc
+-https://youtu.be/U_Yiw4tjeQw?feature=shared
